@@ -6,9 +6,8 @@ AI for Agriculture
 
 Detectie fructe bolnave cu scopul de a fi culese mai repede sau pentru a fi aplicat un tratament optim
 
+Date:
 
-https://datasetsearch.research.google.com/search?src=0&query=fruits%20pathology&docid=L2cvMTFtcXdkbTRneQ%3D%3D 
-sau 
-https://www.kaggle.com/tobiek/green-finder
-
-https://ieeexplore.ieee.org/abstract/document/9358541
+1. https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
+2. https://data.mendeley.com/datasets/bdd69gyhv8/1
+3. https://www.kaggle.com/datasets/moltean/fruits
